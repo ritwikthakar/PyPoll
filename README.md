@@ -1,6 +1,9 @@
 # Analysis of Election Audit
 ## Overview of Election Audit
 The purpose of this exercise is to assist Tom, a Colorado Board of Elections employee help audit tabulated results of a US Congressional Election in a precinct in Colorado. We will be helping Tom in this process by using Python. The objective of the audit is to count total number of votes, count votes in various counties with percentages, determine the county with the largest turnout, count votes received by candidates along with percentages and determine the winning candidate in the process with number of votes & percentage.
+## Resources
+-Data Source: elections_results.csv
+-Software: Python 3.6.1, Visual Studio Code 1.38.1
 ## Election Audit Results
 - Total number of votes cast in the election were 369,711.
 - Voters from Denver totalled to 306,055 which were 82.8% percent of the total votes while Jefferson had 38,855 voters which made up 10.5% of total votes and the remaining 6.7% OF - voters were from Arapahoe which totalled to 24,801.
