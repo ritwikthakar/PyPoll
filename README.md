@@ -10,6 +10,7 @@ The purpose of this exercise is to assist Tom, a Colorado Board of Elections emp
 - Denver was clearly the County with the largest number of votes.
 - Among the election candidates, Charles Casper Stockham received 85,213 votes which was 23% of votes, Raymon Anthony Doane received 11,606 votes which was 3.1% of the votes and -Diana DeGette received 272,892 votes which was 73.8% of the votes.
 - Diana DeGette was declared winner of this election based on 272,892 votes comprising 73.8% of the total votes.
+![election_analysis.txt]( https://github.com/ritwikthakar/PyPoll/blob/main/Challenge%203/analysis/election_analysis.txt)
 
 ## Election Audit Summary
 The code used in python served the basic function of counting total number of votes & percentage of votes for each county & candidate to determine the winning candidate and largest count. There are few other elements that can be added to the code to give us an in-depth analysis in the future.
